@@ -48549,7 +48549,7 @@ AS(a,b){return this.aqc(a,b)},
 aqc(a,b){var s=0,r=A.P(t.y),q,p=2,o,n,m,l,k,j,i,h
 var $async$AS=A.Q(function(c,d){if(c===1){o=d
 s=p}while(true)switch(s){case 0:p=4
-l=A.cM("http://cine-admin-xar9.onrender.com/admin/login",0,null)
+l=A.cM("https://cine-admin-xar9.onrender.com/admin/login",0,null)
 k=t.N
 j=A.T(["Content-Type","application/json; charset=UTF-8","Accept","application/json"],k,k)
 s=7
